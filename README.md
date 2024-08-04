@@ -1,4 +1,4 @@
-# Flight Price Predition 
+# Flight Price Prediction
 
 ## Business Problem :-
 To know how unexpectedly the prices vary. The cheapest available ticket on a given flight 
